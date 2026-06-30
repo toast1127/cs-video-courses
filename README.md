@@ -724,6 +724,7 @@ Table of Contents
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   - [UC Berkeley CS 194/294-280 Advanced Large Language Model Agents Spring 2025](https://rdi.berkeley.edu/adv-llm-agents/sp25) ([YouTube](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9nGkzhvtn6Egn))
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
+  - [CMU 10423 S24: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423-s24/schedule.html) [Videos](https://archive.org/details/p04_20260318/)
   - [CMU 10799 S26: Diffusion & Flow Matching](https://www.youtube.com/playlist?list=PL9aTsZCk17O6ebBauPy7Mn8cQqXgt0Xtb)
   - [6.S183: A Practical Introduction to Diffusion Models - MIT](https://www.practical-diffusion.org/lectures/) ([YouTube](https://www.youtube.com/@MIT-6.S183), [2025 lectures](https://www.youtube.com/playlist?list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh))
   - [The Principles of Diffusion Models - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShSUHKLhdHAdAw5oM9vM1Yf)
